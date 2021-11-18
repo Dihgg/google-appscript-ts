@@ -1,0 +1,15 @@
+### JetBrains
+/.idea/
+
+
+# Coverage directory
+/coverage/
+
+# Dist directory
+/dist/
+
+# Dependency directories
+/node_modules/
+
+# Clasp
+.clasprc.json

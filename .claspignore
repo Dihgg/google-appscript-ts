@@ -1,0 +1,14 @@
+# ignore all files…
+**/**
+
+# except the extensions…
+!appsscript.json
+!**/*.ts
+!dist/**
+
+# ignore even valid files if in…
+.git/**
+.idea/**
+node_modules/**
+src/**
+webpack.config.js
